@@ -1,0 +1,6 @@
+{
+    "badge_template": {
+        "description": "Allow badge template",
+        "value": false
+    }
+}
