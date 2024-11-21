@@ -1,5 +1,4 @@
 import { allowBadgeTemplate } from "@/flags";
-import Image from "next/image";
 
 export default async  function Home() {
 
